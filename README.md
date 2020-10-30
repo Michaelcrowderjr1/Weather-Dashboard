@@ -15,6 +15,6 @@ App that displays present weather conditions as well as 5 day forcast using Open
 
 -When the user opens the weather dashboard, the user is presented with the last searched city forecast.
 # Built with 
--HTML, CSS, Javascript,AJAX query request,Openweather API & Visual Studio Code
+HTML, CSS, Javascript,AJAX query request,Openweather API & Visual Studio Code
 # Website
 https://michaelcrowderjr1.github.io/Weather-Dashboard/
