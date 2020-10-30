@@ -1,5 +1,5 @@
 # Weather-Dashboard
-App that displays present weather conditions as well as 5 day forcast using OpenWeather API to retrieve weather data for cities.
+Application that displays present weather conditions as well as 5 day forcast using OpenWeather API to retrieve weather data for specific cities.
 # Description
 -Fuctionalitiaitieles allows users to access current weather status within major cities 
 #Criteria
